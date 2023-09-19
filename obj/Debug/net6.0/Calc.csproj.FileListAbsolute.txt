@@ -1,0 +1,46 @@
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\nunit.engine.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\Calc.exe
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\Calc.deps.json
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\Calc.runtimeconfig.json
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\Calc.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\Calc.pdb
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\bin\Debug\net6.0\nunit.framework.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.csproj.AssemblyReference.cache
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfoInputs.cache
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfo.cs
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.csproj.CoreCompileInputs.cache
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.csproj.CopyComplete
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\refint\Calc.dll
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.pdb
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\Calc.genruntimeconfig.cache
+D:\Training\Phase_4\Assignment_Phase_4\Assignment_5\Calc\Calc\obj\Debug\net6.0\ref\Calc.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\nunit.engine.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\Calc.exe
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\Calc.deps.json
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\Calc.runtimeconfig.json
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\Calc.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\Calc.pdb
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\bin\Debug\net6.0\nunit.framework.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.AssemblyInfo.cs
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.csproj.CopyComplete
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\refint\Calc.dll
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.pdb
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\Calc.genruntimeconfig.cache
+D:\Mphasis\Phase-3\Day-6\Phase3Assignment05-master\Assignment 5\Calc\Calc\obj\Debug\net6.0\ref\Calc.dll
